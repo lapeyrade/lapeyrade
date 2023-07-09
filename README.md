@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I’m currently doing my PhD in Game Artificial Intelligence at Clermont-Ferrand, France. You can learn more about me and my project on my personal website:
+I’m currently doing a PhD in Game Artificial Intelligence at Clermont-Ferrand, France. You can learn more about me and my project on my personal website:
  <br /> [https://sylvainlapeyrade.github.io](https://sylvainlapeyrade.github.io) <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sylvainlapeyrade&show_icons=true&locale=en" alt="sylvainlapeyrade" /></p>
