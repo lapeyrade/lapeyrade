@@ -1,9 +1,6 @@
-### Hi 👋
+I’m [Sylvain Lapeyrade](https://sylvainlapeyrade.github.io), PhD student in Game Artificial Intelligence at Clermont Auvergne University in France.
 
-I’m currently doing a PhD in Game Artificial Intelligence at Clermont-Ferrand, France. You can learn more about me and my project on my personal website:
- <br /> [https://sylvainlapeyrade.github.io](https://sylvainlapeyrade.github.io) <br />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sylvainlapeyrade&show_icons=true&locale=en" alt="sylvainlapeyrade" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sylvainlapeyrade&show_icons=true&locale=en&theme=tokyonight" alt="sylvainlapeyrade" /></p>
 
 <!--
 **sylvainlapeyrade/sylvainlapeyrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
