@@ -1,4 +1,4 @@
-I’m [Sylvain Lapeyrade](https://sylvainlapeyrade.github.io), PhD student in Game Artificial Intelligence at Clermont Auvergne University in France.
+I’m [Sylvain Lapeyrade](https://sylvainlapeyrade.github.io), a PhD student in Game Artificial Intelligence and Data Scientist in Toronto, Canada for [Shift Technology](https://www.shift-technology.com).
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sylvainlapeyrade&show_icons=true&locale=en&theme=tokyonight" alt="sylvainlapeyrade" /></p>
 
