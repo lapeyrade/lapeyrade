@@ -1,4 +1,4 @@
-I’m a PhD student in Game Artificial Intelligence from France working as a Data Scientist in Toronto, Canada for [Shift Technology](https://www.shift-technology.com).
+Data Scientist in Toronto, Canada for [Shift Technology](https://www.shift-technology.com), finishing my PhD in Game Artificial Intelligence.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sylvainlapeyrade&show_icons=true&locale=en&theme=tokyonight" alt="sylvainlapeyrade" /></p>
 
