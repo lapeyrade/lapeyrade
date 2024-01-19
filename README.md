@@ -1,6 +1,6 @@
 Data Scientist in Toronto, Canada at [Shift Technology](https://www.shift-technology.com), finishing my PhD in Game Artificial Intelligence.
 
-<p>&nbsp;<img align="center" src="https://readme-stats-alpha-ten.vercel.app/api?username=sylvainlapeyrade&show_icons=true&locale=en&theme=tokyonight" alt="sylvainlapeyrade" /></p>
+<p>&nbsp;<img align="center" src="https://sylvainlapeyrade-readme-stats.vercel.app/api?username=sylvainlapeyrade&show_icons=true&locale=en&theme=tokyonight" alt="sylvainlapeyrade" /></p>
 
 <!--
 **sylvainlapeyrade/sylvainlapeyrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
