@@ -1,4 +1,4 @@
-Data Scientist in Toronto, Canada at [Shift Technology](https://www.shift-technology.com), finishing my PhD in Game Artificial Intelligence.
+Data Scientist, AI Engineer, PhD in Game Artificial Intelligence.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-tau-lovat.vercel.app/api?username=sylvainlapeyrade&show_icons=true&locale=en&theme=tokyonight" alt="sylvainlapeyrade" /></p>
 
