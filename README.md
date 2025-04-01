@@ -1,4 +1,4 @@
-Data Scientist, AI Engineer, PhD in Game Artificial Intelligence.
+AI Engineer, Data Scientist, Research in Game AI, Instructor
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-tau-lovat.vercel.app/api?username=sylvainlapeyrade&show_icons=true&locale=en&theme=theme=transparent" alt="sylvainlapeyrade" /></p>
 
